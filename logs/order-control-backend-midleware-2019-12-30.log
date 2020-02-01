@@ -1,0 +1,91 @@
+2019-12-30T02:00:40.158Z Server Init at 2019-12-30T02:00:40.080Z
+2019-12-30T13:48:40.049Z Server Init at 2019-12-30T13:48:39.946Z
+2019-12-30T13:55:44.123Z Server Init at 2019-12-30T13:55:44.086Z
+2019-12-30T14:03:41.505Z Server Init at 2019-12-30T14:03:41.469Z
+2019-12-30T14:03:57.509Z Missing where attribute in the options parameter
+2019-12-30T14:05:26.674Z Server Init at 2019-12-30T14:05:26.631Z
+2019-12-30T14:06:05.573Z Server Init at 2019-12-30T14:06:05.537Z
+2019-12-30T14:08:03.768Z Missing where attribute in the options parameter
+2019-12-30T14:08:34.671Z Server Init at 2019-12-30T14:08:34.626Z
+2019-12-30T14:12:26.147Z Server Init at 2019-12-30T14:12:26.110Z
+2019-12-30T14:13:24.395Z Server Init at 2019-12-30T14:13:24.362Z
+2019-12-30T14:16:38.197Z Server Init at 2019-12-30T14:16:38.164Z
+2019-12-30T14:22:44.884Z Server Init at 2019-12-30T14:22:44.840Z
+2019-12-30T14:30:55.308Z Server Init at 2019-12-30T14:30:55.269Z
+2019-12-30T14:32:21.137Z Server Init at 2019-12-30T14:32:21.086Z
+2019-12-30T14:33:19.380Z Server Init at 2019-12-30T14:33:19.340Z
+2019-12-30T15:57:24.817Z Server Init at 2019-12-30T15:57:24.768Z
+2019-12-30T15:57:43.040Z Missing where attribute in the options parameter
+2019-12-30T15:59:31.545Z Server Init at 2019-12-30T15:59:31.507Z
+2019-12-30T16:04:11.649Z Server Init at 2019-12-30T16:04:11.616Z
+2019-12-30T16:04:27.230Z OrdersModel.put is not a function
+2019-12-30T16:48:29.420Z Server Init at 2019-12-30T16:48:29.379Z
+2019-12-30T16:49:46.570Z Server Init at 2019-12-30T16:49:46.537Z
+2019-12-30T16:51:53.406Z Server Init at 2019-12-30T16:51:53.371Z
+2019-12-30T16:52:47.197Z Unknown column 'group_order_id' in 'where clause'
+2019-12-30T16:54:03.090Z Server Init at 2019-12-30T16:54:03.050Z
+2019-12-30T16:54:12.821Z Server Init at 2019-12-30T16:54:12.779Z
+2019-12-30T16:54:17.911Z Unknown column 'group_order_id' in 'where clause'
+2019-12-30T16:55:02.449Z Server Init at 2019-12-30T16:55:02.414Z
+2019-12-30T19:03:22.032Z Server Init at 2019-12-30T19:03:21.972Z
+2019-12-30T19:04:34.736Z Server Init at 2019-12-30T19:04:34.703Z
+2019-12-30T19:06:52.624Z Server Init at 2019-12-30T19:06:52.591Z
+2019-12-30T19:06:56.803Z Unknown column 'orders.group' in 'where clause'
+2019-12-30T19:07:20.551Z Server Init at 2019-12-30T19:07:20.518Z
+2019-12-30T19:08:43.162Z Server Init at 2019-12-30T19:08:43.129Z
+2019-12-30T20:02:16.538Z Server Init at 2019-12-30T20:02:16.447Z
+2019-12-30T20:06:46.464Z Server Init at 2019-12-30T20:06:46.430Z
+2019-12-30T20:14:14.396Z Server Init at 2019-12-30T20:14:14.330Z
+2019-12-30T20:14:36.207Z ProductsModel is not defined
+2019-12-30T20:15:13.435Z Server Init at 2019-12-30T20:15:13.398Z
+2019-12-30T20:17:19.254Z Server Init at 2019-12-30T20:17:19.217Z
+2019-12-30T20:17:29.002Z Unknown column 'payment_bills.datepayment' in 'order clause'
+2019-12-30T20:17:56.834Z Server Init at 2019-12-30T20:17:56.794Z
+2019-12-30T20:18:46.713Z Server Init at 2019-12-30T20:18:46.675Z
+2019-12-30T22:33:03.680Z Server Init at 2019-12-30T22:33:03.629Z
+2019-12-30T22:33:07.535Z value.map is not a function
+2019-12-30T22:37:54.711Z Server Init at 2019-12-30T22:37:54.678Z
+2019-12-30T22:39:23.129Z Server Init at 2019-12-30T22:39:23.091Z
+2019-12-30T22:40:13.831Z Server Init at 2019-12-30T22:40:13.798Z
+2019-12-30T22:40:28.643Z The argument passed to findAll must be an options object, use findByPk if you wish to pass a single primary key value
+2019-12-30T22:41:16.023Z Server Init at 2019-12-30T22:41:15.990Z
+2019-12-30T22:42:40.267Z Server Init at 2019-12-30T22:42:40.234Z
+2019-12-30T22:43:12.009Z Server Init at 2019-12-30T22:43:11.975Z
+2019-12-30T22:43:51.756Z Server Init at 2019-12-30T22:43:51.713Z
+2019-12-30T22:43:54.444Z You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') FROM `payment_bills` AS `payment_bills` WHERE `payment_bills`.`user_id` = '7' ' at line 1
+2019-12-30T22:44:15.026Z Server Init at 2019-12-30T22:44:14.994Z
+2019-12-30T22:44:58.908Z Server Init at 2019-12-30T22:44:58.875Z
+2019-12-30T22:45:27.302Z Server Init at 2019-12-30T22:45:27.269Z
+2019-12-30T22:47:13.145Z Server Init at 2019-12-30T22:47:13.108Z
+2019-12-30T22:48:13.658Z Server Init at 2019-12-30T22:48:13.610Z
+2019-12-30T22:48:59.774Z Server Init at 2019-12-30T22:48:59.741Z
+2019-12-30T22:49:17.441Z Server Init at 2019-12-30T22:49:17.408Z
+2019-12-30T22:49:41.142Z Server Init at 2019-12-30T22:49:41.091Z
+2019-12-30T22:51:40.855Z Server Init at 2019-12-30T22:51:40.822Z
+2019-12-30T22:53:42.677Z Server Init at 2019-12-30T22:53:42.637Z
+2019-12-30T22:54:19.408Z Server Init at 2019-12-30T22:54:19.368Z
+2019-12-30T22:55:19.607Z Server Init at 2019-12-30T22:55:19.572Z
+2019-12-30T22:55:21.302Z [{"fn":"max","args":[{"col":"order_group_id"}]}] is not a valid attribute definition. Please use the following format: ['attribute definition', 'alias']
+2019-12-30T22:55:34.123Z Server Init at 2019-12-30T22:55:34.087Z
+2019-12-30T22:56:41.901Z Server Init at 2019-12-30T22:56:41.865Z
+2019-12-30T22:57:42.498Z Server Init at 2019-12-30T22:57:42.466Z
+2019-12-30T22:58:21.323Z Server Init at 2019-12-30T22:58:21.263Z
+2019-12-30T22:58:25.325Z Cannot read property 'startsWith' of undefined
+2019-12-30T22:59:20.963Z Server Init at 2019-12-30T22:59:20.917Z
+2019-12-30T22:59:28.806Z You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 'max', `user_id`) FROM `payment_bills` AS `payment_bills` WHERE `payment_bills`' at line 1
+2019-12-30T22:59:57.957Z Server Init at 2019-12-30T22:59:57.895Z
+2019-12-30T23:04:05.136Z Server Init at 2019-12-30T23:04:05.099Z
+2019-12-30T23:04:09.208Z You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') FROM `payment_bills` AS `payment_bills` WHERE `payment_bills`.`user_id` = '7' ' at line 1
+2019-12-30T23:04:52.620Z Server Init at 2019-12-30T23:04:52.583Z
+2019-12-30T23:05:06.167Z Server Init at 2019-12-30T23:05:06.130Z
+2019-12-30T23:06:39.937Z Server Init at 2019-12-30T23:06:39.904Z
+2019-12-30T23:07:42.655Z Server Init at 2019-12-30T23:07:42.610Z
+2019-12-30T23:08:13.353Z Server Init at 2019-12-30T23:08:13.320Z
+2019-12-30T23:10:20.383Z Server Init at 2019-12-30T23:10:20.351Z
+2019-12-30T23:10:55.305Z Server Init at 2019-12-30T23:10:55.266Z
+2019-12-30T23:10:57.758Z ["date_payment"] is not a valid attribute definition. Please use the following format: ['attribute definition', 'alias']
+2019-12-30T23:11:17.492Z Server Init at 2019-12-30T23:11:17.456Z
+2019-12-30T23:11:21.584Z ["payment_bills_id","order_group_id","user_id","payment_total_value","payment_installment_value","installment_qtd","installment_nth","date_create","type","status_payment",{"fn":"max","args":[{"col":"date_payment"}]},"date_payment"] is not a valid attribute definition. Please use the following format: ['attribute definition', 'alias']
+2019-12-30T23:11:42.632Z Server Init at 2019-12-30T23:11:42.596Z
+2019-12-30T23:13:32.263Z Server Init at 2019-12-30T23:13:32.224Z
+2019-12-30T23:14:48.115Z Server Init at 2019-12-30T23:14:48.049Z

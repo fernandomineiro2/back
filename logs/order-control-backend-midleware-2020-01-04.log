@@ -1,0 +1,34 @@
+2020-01-04T02:06:01.572Z Server Init at 2020-01-04T02:06:01.538Z
+2020-01-04T20:03:42.376Z Server Init at 2020-01-04T20:03:42.302Z
+2020-01-04T21:56:55.565Z Server Init at 2020-01-04T21:56:55.520Z
+2020-01-04T21:57:14.425Z Unknown column 'product_id' in 'field list'
+2020-01-04T21:58:05.172Z Server Init at 2020-01-04T21:58:05.122Z
+2020-01-04T21:58:07.585Z Unknown column 'product_id' in 'field list'
+2020-01-04T21:58:24.909Z Server Init at 2020-01-04T21:58:24.872Z
+2020-01-04T21:58:26.612Z Unknown column 'id' in 'field list'
+2020-01-04T21:58:41.712Z Server Init at 2020-01-04T21:58:41.677Z
+2020-01-04T22:02:58.008Z Server Init at 2020-01-04T22:02:57.974Z
+2020-01-04T22:06:37.679Z Server Init at 2020-01-04T22:06:37.646Z
+2020-01-04T22:06:40.288Z Unknown column 'regions.region_seller_id' in 'where clause'
+2020-01-04T22:07:11.845Z Server Init at 2020-01-04T22:07:11.813Z
+2020-01-04T22:08:15.309Z Server Init at 2020-01-04T22:08:15.276Z
+2020-01-04T22:10:55.090Z Server Init at 2020-01-04T22:10:55.056Z
+2020-01-04T22:16:20.040Z Server Init at 2020-01-04T22:16:20.007Z
+2020-01-04T22:17:21.715Z Server Init at 2020-01-04T22:17:21.681Z
+2020-01-04T22:18:45.901Z Server Init at 2020-01-04T22:18:45.867Z
+2020-01-04T22:22:49.471Z Server Init at 2020-01-04T22:22:49.439Z
+2020-01-04T22:22:52.115Z Naming collision between attribute 'estado' and association 'estado' on model cidades. To remedy this, change either foreignKey or as in your association definition
+2020-01-04T22:23:19.296Z Server Init at 2020-01-04T22:23:19.264Z
+2020-01-04T22:23:22.065Z Naming collision between attribute 'estado' and association 'estado' on model cidades. To remedy this, change either foreignKey or as in your association definition
+2020-01-04T22:24:39.257Z Server Init at 2020-01-04T22:24:39.225Z
+2020-01-04T22:24:43.093Z Naming collision between attribute 'estado' and association 'estado' on model cidades. To remedy this, change either foreignKey or as in your association definition
+2020-01-04T22:25:43.023Z Server Init at 2020-01-04T22:25:42.989Z
+2020-01-04T22:25:46.366Z Naming collision between attribute 'estado' and association 'estado' on model cidades. To remedy this, change either foreignKey or as in your association definition
+2020-01-04T22:25:52.650Z Naming collision between attribute 'estado' and association 'estado' on model cidades. To remedy this, change either foreignKey or as in your association definition
+2020-01-04T22:26:24.627Z Server Init at 2020-01-04T22:26:24.595Z
+2020-01-04T22:26:28.817Z Naming collision between attribute 'estado' and association 'estado' on model cidades. To remedy this, change either foreignKey or as in your association definition
+2020-01-04T22:26:36.665Z Server Init at 2020-01-04T22:26:36.632Z
+2020-01-04T22:27:16.067Z Server Init at 2020-01-04T22:27:16.032Z
+2020-01-04T22:27:19.482Z Unknown column 'regions.id' in 'on clause'
+2020-01-04T22:46:48.676Z Unknown column 'regions.id' in 'on clause'
+2020-01-04T22:48:17.784Z Server Init at 2020-01-04T22:48:17.746Z

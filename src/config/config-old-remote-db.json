@@ -1,0 +1,34 @@
+{
+  "development": {
+    "username": "BDFnjUTo1R",
+    "password": "RBZ3PzKI3F",
+    "database": "BDFnjUTo1R",
+    "host": "remotemysql.com",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "supportBigNumbers": true,
+      "bigNumberStrings": true
+    },
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "BDFnjUTo1R",
+    "password": "RBZ3PzKI3F",
+    "database": "BDFnjUTo1R",
+    "host": "remotemysql.com",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "supportBigNumbers": true,
+      "bigNumberStrings": true
+    },
+    "logging": false
+  }
+}

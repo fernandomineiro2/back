@@ -1,0 +1,19 @@
+2019-12-23T03:42:20.529Z Server Init at 2019-12-23T03:42:20.452Z
+2019-12-23T03:46:07.653Z Server Init at 2019-12-23T03:46:07.617Z
+2019-12-23T11:42:11.370Z Server Init at 2019-12-23T11:42:11.319Z
+2019-12-23T12:10:46.992Z Server Init at 2019-12-23T12:10:46.941Z
+2019-12-23T12:23:10.322Z Cannot read property 'dataValues' of null
+2019-12-23T12:30:56.834Z Server Init at 2019-12-23T12:30:56.801Z
+2019-12-23T12:37:49.501Z Server Init at 2019-12-23T12:37:49.465Z
+2019-12-23T12:39:53.186Z Server Init at 2019-12-23T12:39:53.114Z
+2019-12-23T12:40:41.805Z Server Init at 2019-12-23T12:40:41.765Z
+2019-12-23T12:49:04.832Z Server Init at 2019-12-23T12:49:04.784Z
+2019-12-23T15:25:22.676Z Server Init at 2019-12-23T15:25:22.566Z
+2019-12-23T16:40:50.209Z Column 'product_description' cannot be null
+2019-12-23T16:55:19.633Z Cannot read property 'dataValues' of null
+2019-12-23T19:55:44.729Z Server Init at 2019-12-23T19:55:44.628Z
+2019-12-23T20:08:32.241Z Column 'associate_price' cannot be null
+2019-12-23T21:30:44.659Z WHERE parameter "command_order_table" has invalid "undefined" value
+2019-12-23T21:32:31.945Z Server Init at 2019-12-23T21:32:31.896Z
+2019-12-23T21:34:28.607Z WHERE parameter "product_id" has invalid "undefined" value
+2019-12-23T22:21:24.512Z Server Init at 2019-12-23T22:21:24.477Z

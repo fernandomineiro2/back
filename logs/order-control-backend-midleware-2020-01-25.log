@@ -1,0 +1,17 @@
+2020-01-25T13:09:56.892Z Op is not defined
+2020-01-25T13:10:26.520Z Op is not defined
+2020-01-25T13:15:01.190Z Op is not defined
+2020-01-25T13:16:31.846Z Op is not defined
+2020-01-25T13:23:22.611Z Unknown column 'payment_bills.datecreate' in 'where clause'
+2020-01-25T14:21:28.785Z Unknown column 'user.user.name' in 'field list'
+2020-01-25T14:27:55.416Z You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[object Object]() AS `user.customer` FROM `payment_bills` AS `payment_bills` INN' at line 1
+2020-01-25T14:28:25.724Z You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[object Object]() AS `user.customer` FROM `payment_bills` AS `payment_bills` INN' at line 1
+2020-01-25T14:29:09.952Z s.replace is not a function
+2020-01-25T14:32:48.703Z s.replace is not a function
+2020-01-25T14:34:25.731Z s.replace is not a function
+2020-01-25T14:34:27.858Z s.replace is not a function
+2020-01-25T14:38:48.684Z payment_bills.belongsTo called with something that's not a subclass of Sequelize.Model
+2020-01-25T14:39:09.070Z payment_bills.belongsTo called with something that's not a subclass of Sequelize.Model
+2020-01-25T14:39:32.915Z Include unexpected. Element has to be either a Model, an Association or an object.
+2020-01-25T14:42:11.487Z Unknown column 'user.user_id' in 'on clause'
+2020-01-25T14:43:06.735Z users is not associated to payment_bills!
